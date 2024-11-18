@@ -9,7 +9,7 @@
   },
   "author": "admin",
   "license": "ISC",
-  "description": "",
+  "description": "这是一个简单的测试，为了验证verdaccio是否可用",
   "devDependencies": {
     "rimraf": "6.0.1",
     "tsx": "4.19.2",
