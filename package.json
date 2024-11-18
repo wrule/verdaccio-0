@@ -7,7 +7,7 @@
     "dev": "tsx --watch ./src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "admin",
   "license": "ISC",
   "description": "",
   "devDependencies": {
