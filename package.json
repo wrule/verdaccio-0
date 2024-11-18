@@ -1,7 +1,7 @@
 {
   "name": "verdaccio-0",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "dev": "tsx --watch ./src/index.ts",
